@@ -22,3 +22,4 @@ int main()
 		printf("%.2f/%.2f=%.2f\n",a,b,a/b);break;
     }
 }
+123
